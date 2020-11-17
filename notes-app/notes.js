@@ -1,5 +1,6 @@
+//Files Module
 console.log('notes.js')
 const getNotes = function () { 
     return 'Your Notes...'
 }
-module.exports = getNotes
+module.exports =  getNotes
